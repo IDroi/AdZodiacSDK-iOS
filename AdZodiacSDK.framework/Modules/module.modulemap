@@ -1,0 +1,6 @@
+framework module AdZodiacSDK {
+  umbrella header "AdZodiacSDK.h"
+
+  export *
+  module * { export * }
+}
